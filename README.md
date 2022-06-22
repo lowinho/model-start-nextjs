@@ -1,8 +1,10 @@
 # Start next project
 
 ## instructions
-- In your terminal run this command:
+- In your terminal run these command:
 ` npx create-next-app . -e https://github.com/lowinho/model-start-nextjs.git `
+` yarn install ` or ` npm install `
+` yarn dev ` or ` npm run dev `
 
 ## Packages
 **Eslint** --[Eslint](https://eslint.org/docs/user-guide/getting-started);
