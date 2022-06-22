@@ -2,7 +2,7 @@
 
 ## instructions
 - In your terminal run this command:
-` npx create-next-app . -e "url-github-sem-aspas" `
+` npx create-next-app . -e https://github.com/lowinho/model-start-nextjs.git `
 
 ## Packages
 **Eslint** --[Eslint](https://eslint.org/docs/user-guide/getting-started);
